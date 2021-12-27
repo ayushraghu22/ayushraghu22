@@ -8,7 +8,7 @@
 <br>
 
 💻 I'm a 2nd-year undergraduate @ IET-DAVV pursuing CSE. I have a keen  
-    interest in competitive programming even though I am still unable to solve atleast 'x' questions in a day🥲.      
+    interest in competitive programming even though I am still unable to solve atleast 'x' questions a day🥲.      
     codechef - 3🌟(max 1671).
 
 🌱 I’m currently learning **React**.
