@@ -7,9 +7,8 @@
 ## 👨‍🎓 About Me :
 <br>
 
-💻 I'm a 2nd-year undergraduate @ IET-DAVV pursuing CSE. I have a keen  
+💻 I'm a 3rd-year undergraduate @ IET-DAVV pursuing CSE. I have a keen  
     interest in competitive programming even though I am still unable to solve atleast 'x' questions a day🥲.      
-    codechef - 3🌟(max 1797).
 
 🌱 I’m currently learning **React**.
 
