@@ -10,8 +10,6 @@
 💻 I'm a 4th-year undergraduate @ IET-DAVV pursuing CSE. I have a keen  
     interest in competitive programming even though I am still unable to solve atleast 'x' questions a day🥲.      
 
-🌱 I’m currently learning **React**.
-
 🔭 I’m currently working on **Simple Projects😉**
 
 👯 I’m looking to collaborate on **OpenSource Projects**.
