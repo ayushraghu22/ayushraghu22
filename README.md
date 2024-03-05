@@ -7,8 +7,7 @@
 ## 👨‍🎓 About Me :
 <br>
 
-💻 I'm a 4th-year undergraduate @ IET-DAVV pursuing CSE. I have a keen  
-    interest in competitive programming even though I am still unable to solve atleast 'x' questions a day🥲.      
+💻 I'm a 4th-year undergraduate @ IET-DAVV pursuing CSE. I have a keen interest in competitive programming.      
 
 🔭 I’m currently working on **Simple Projects😉**
 
