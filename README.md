@@ -6,7 +6,7 @@
 
 ## 👨‍🎓 About Me :
 <br>
-📫 How to reach me <b>ayushraghuwanshi22@gmail.com </b>
+📫 How to reach me <a href = "mailto:ayushraghuwanshi22@gmail.com" target="blank">ayushraghuwanshi22@gmail.com</a>
 <br>
 <!-- ## Languages and Tools: -->
 
